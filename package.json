@@ -1,13 +1,13 @@
 {
-"name": "Catastrophic Bot",
-"Description": "bot using Heroku, 24/7!",
-"Version": "1.0.0",
-"main": "bot.js",
-"scripts": {
-"start": "node bot.js"
-},
-"dependencies": {
-"discord.js": "11.1.0",
-"request": "2.81.0",
- }
+  "name": "Catastrophic bot",
+  "description": "Test",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
 }
